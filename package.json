@@ -1,0 +1,11 @@
+{
+  "name": "mainspring",
+  "version": "0.1.0",
+  "description": "Differences between dates in a useful format",
+  "main": "lib/index.js",
+  "author": "Jeff Long",
+  "license": "MIT",
+  "devDependencies": {
+    "coffee-script": "^1.9.1"
+  }
+}
