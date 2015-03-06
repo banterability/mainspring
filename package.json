@@ -3,9 +3,14 @@
   "version": "0.1.0",
   "description": "Differences between dates in a useful format",
   "main": "lib/index.js",
+  "scripts": {
+    "test": "mocha"
+  },
   "author": "Jeff Long",
   "license": "MIT",
   "devDependencies": {
-    "coffee-script": "^1.9.1"
+    "assertive": "^1.4.1",
+    "coffee-script": "^1.9.1",
+    "mocha": "^2.1.0"
   }
 }
