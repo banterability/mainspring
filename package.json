@@ -2,7 +2,7 @@
   "name": "mainspring",
   "version": "0.1.0",
   "description": "Differences between dates in a useful format",
-  "main": "lib/index.js",
+  "main": "index.js",
   "scripts": {
     "test": "mocha"
   },
@@ -10,7 +10,6 @@
   "license": "MIT",
   "devDependencies": {
     "assertive": "^1.4.1",
-    "coffee-script": "^1.9.1",
     "mocha": "^2.1.0",
     "timekeeper": "0.0.5"
   },
