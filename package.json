@@ -1,6 +1,6 @@
 {
   "name": "mainspring",
-  "version": "0.1.0",
+  "version": "1.0.0",
   "description": "Differences between dates in a useful format",
   "main": "index.js",
   "scripts": {
