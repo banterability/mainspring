@@ -2,7 +2,7 @@ mainspring
 ----------
 
 [![Latest Version](https://img.shields.io/npm/v/mainspring.svg?style=flat-square)](https://www.npmjs.com/package/mainspring)
-[![Build Status](https://img.shields.io/circleci/project/github/banterability/mainspring.svg?style=flat-square)](https://circleci.com/gh/banterability/mainspring)
+[![Build Status](https://img.shields.io/travis/banterability/mainspring.svg?style=flat-square)](https://travis-ci.org/banterability/mainspring)
 
 ### Installation
 
