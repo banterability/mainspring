@@ -1,6 +1,9 @@
 mainspring
 ----------
 
+[![Latest Version](https://img.shields.io/npm/v/mainspring.svg?style=flat-square)](https://www.npmjs.com/package/mainspring)
+[![Build Status](https://img.shields.io/circleci/project/github/banterability/mainspring.svg?style=flat-square)](https://circleci.com/gh/banterability/mainspring)
+
 ### Installation
 
 ```bash
@@ -38,8 +41,6 @@ mainspring(
 ```
 
 ### Testing
-
-[![Build Status](https://travis-ci.org/banterability/mainspring.svg?branch=master)](https://travis-ci.org/banterability/mainspring)
 
 ```bash
 npm test
