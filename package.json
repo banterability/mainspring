@@ -10,7 +10,7 @@
   "license": "MIT",
   "devDependencies": {
     "assertive": "^1.4.1",
-    "mocha": "^2.1.0",
+    "mocha": "^6.2.2",
     "timekeeper": "0.0.5"
   },
   "directories": {
