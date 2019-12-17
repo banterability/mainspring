@@ -1,19 +1,19 @@
 mainspring
 ----------
 
-[![Latest Version](https://img.shields.io/npm/v/mainspring.svg?style=flat-square)](https://www.npmjs.com/package/mainspring)
-[![Build Status](https://img.shields.io/travis/banterability/mainspring.svg?style=flat-square)](https://travis-ci.org/banterability/mainspring)
+[![Latest Version](https://img.shields.io/npm/v/mainspring.svg)](https://www.npmjs.com/package/mainspring)
+[![Build Status](https://img.shields.io/circleci/project/github/banterability/mainspring/master.svg)](https://travis-ci.org/banterability/mainspring)
 
 ### Installation
 
 ```bash
-npm install -s mainspring
+npm install mainspring
 ```
 
 ### Usage
 
 ```javascript
-var mainspring = require('mainspring');
+const mainspring = require('mainspring');
 
 // Compare a date against now
 mainspring(new Date(2023, 8, 24));
