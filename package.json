@@ -9,7 +9,7 @@
   "author": "Jeff Long",
   "license": "MIT",
   "devDependencies": {
-    "jest": "^29.0.0",
+    "jest": "^30.0.4",
     "timekeeper": "2.3"
   },
   "repository": {
