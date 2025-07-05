@@ -4,14 +4,15 @@
   "description": "Differences between dates in a useful format",
   "main": "index.js",
   "scripts": {
-    "test": "jest"
+    "prettier": "prettier . --write",
+    "test": "vitest"
   },
   "author": "Jeff Long",
   "license": "MIT",
   "devDependencies": {
-    "jest": "^29.0.0",
     "prettier": "3.6.2",
     "timekeeper": "2.3",
+    "vitest": "^3.2.4"
   },
   "repository": {
     "type": "git",
