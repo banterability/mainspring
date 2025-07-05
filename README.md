@@ -2,7 +2,7 @@ mainspring
 ----------
 
 [![Latest Version](https://img.shields.io/npm/v/mainspring.svg)](https://www.npmjs.com/package/mainspring)
-[![Build Status](https://img.shields.io/circleci/project/github/banterability/mainspring/master.svg)](https://travis-ci.org/banterability/mainspring)
+[![🚦 CI](https://github.com/banterability/mainspring/actions/workflows/ci.yml/badge.svg)](https://github.com/banterability/mainspring/actions/workflows/ci.yml)
 
 ### Installation
 
